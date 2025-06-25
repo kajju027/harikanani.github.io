@@ -10,25 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title2: "Sayan Mete",
+  logo_name: "Sayan.MD()",
+  nickname: "SAYAN / x MD",
+  full_name: "Sayan Mete",
   subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "Sayanmete027@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
+  github: "https://github.com/kajju027",
+  linkedin: "https://www.linkedin.com/in/sayanmete027/",
+  gmail: "sayanmete027@gmail.com",
+  gitlab: "https://gitlab.com/satanmete027",
   // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  twitter: "https://twitter.com/sayanmete8",
+  instagram: "https://www.instagram.com/sayan.comm/",
 };
 
 const skills = {
@@ -224,18 +224,18 @@ const degrees = {
       website_link: "http://www.ssgec.ac.in/",
     },
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
+      title: "Benu Pal Chak High School (H.S.)",
       subtitle: "Diploma in Information Technology",
       logo_path: "ssgandhy.png",
       alt_name: "SSGC",
-      duration: "2018 - 2021",
+      duration: "2021 - 2025",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
         "⚡ I have secured 9.82 CGPA.",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://",
     },
   ],
 };
@@ -243,7 +243,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "M0001: MongoDB Basics",
+      title: "M001: Benu pal Chak high school",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
       certificate_link:
@@ -273,7 +273,7 @@ const certifications = {
     },
     {
       title: "Cyber Security & Cyber Forensics",
-      subtitle: "Workshop at IIT Bombay",
+      subtitle: "Workshop at IIT Kolkata",
       logo_path: "iit.png",
       certificate_link:
         "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
@@ -336,8 +336,8 @@ const experience = {
           company: "Crest Infosystems Pvt. Ltd.",
           company_url: "https://www.crestinfosystems.com/",
           logo_path: "crest.png",
-          duration: "Jan 2024 - Present",
-          location: "Surat, Gujarat",
+          duration: "Jan 2025",
+          location: "Howrah, West Bengal",
           description: `Worked on enterprise-level software solutions including employee
 activity tracking system, point of sale system and support ticket
 systems, utilizing full-stack technologies and custom integrations. Improved system efficiency and user experience across
@@ -384,7 +384,7 @@ performance.`,
           company: "NightOwls",
           company_url: "http://nightowls.company/",
           logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
+          duration: "Sep 2021 - June 2025",
           location: "Work From Home",
           description: `Maintain close contact with the client and team when handling change requests.
           LAMP Stack was mostly utilised. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
@@ -510,7 +510,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+    link: "https://twitter.com/sayanmete8",
     avatar_image_path: "blogs_image.svg",
   },
 };
